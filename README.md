@@ -3,11 +3,11 @@ This program does a different types of sorting.
 
 it takes as input from command line:\
 1- Algorithm number:\
-    &nbsp;0. Selection Sort\
-    &nbsp;1. Insertion Sort\
-    &nbsp;2. Merge Sort\
-    &nbsp;3. Quick Sort\
-    &nbsp;4. Hybrid Sort (Insertion and quick)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0. Selection Sort\
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Insertion Sort\
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Merge Sort\
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Quick Sort\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Hybrid Sort (Insertion and quick)\
 2-Path to file contains data to sort.\
 3-Path to file contains the output sorted data.\
 4-Path to file contains the time that the algorithm takes.\
