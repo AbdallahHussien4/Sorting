@@ -2,8 +2,8 @@
 This program does a different types of sorting.
 
 it takes as input from command line:
-1- Algorithm number:
-    0. Selection Sort
+1- Algorithm number:\n
+/t    0. Selection Sort
     1. Insertion Sort
     2. Merge Sort
     3. Quick Sort
